@@ -1,12 +1,12 @@
 {
-    "name": "Nguyen-Duc-Tai",
+    "name": "Nguyễn Đức Tài",
     "version": "1.2.14",
     "description": "File bot được tạo bởi nguyễn đức tài",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
-        "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+        "test": "node --trace-warnings --use_strict --async-stack-traces mitai"
     },
     "repository": {
         "type": "git",
