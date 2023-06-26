@@ -1,7 +1,7 @@
 {
     "name": "Nguyễn Đức Tài",
     "version": "1.2.15",
-    "description": "File bot được tạo bởi nguyễn đức tài\n[DATA]: Đang tiến hành kết nối với data",
+    "description": "File bot được tạo bởi nguyễn đức tài\n『 DATA 』-> Đang tiến hành kết nối với data",
     "main": "mitai.js",
     "scripts": {
         "start": "node index",
