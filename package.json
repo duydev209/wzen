@@ -1,8 +1,8 @@
 {
     "name": "Nguyễn Đức Tài",
     "version": "1.2.15",
-    "description": "File bot được tạo bởi nguyễn đức tài",
-    "main": "mirai.js",
+    "description": "File bot được tạo bởi nguyễn đức tài\n[DATA]: Đang tiến hành kết nối với data",
+    "main": "mitai.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://raw.githubusercontent.com/nguyenductai206/nguyenductai206/main/package.json"
     },
-    "author": "D-Jukie",
+    "author": "Nguyen Duc Tai",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
