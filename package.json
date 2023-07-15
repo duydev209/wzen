@@ -5,7 +5,7 @@
     "data-mitai": "Đang tiến hành kết nối với data...",
     "data-mitai-project": "Kết nối thành công đến cơ sở dữ liệu của mitai project",
     "main": "mitai.js",
-    "api-key": "mitaiproject2006"
+    "api-key": "mitaiproject2006",
     "scripts": {
         "start": "node index",
         "login": "node login",
