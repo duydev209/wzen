@@ -5,7 +5,7 @@
     "data-mirai": "Đang tiến hành kết nối với data",
     "data-mirai-project": "Kết nối thành công đến cơ sở dữ liệu của Wzen Project",
     "api-key": "dtai14-10-2006",
-    "main": "wzen.js",
+    "main": "mitai.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
