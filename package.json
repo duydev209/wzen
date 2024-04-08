@@ -1,11 +1,11 @@
 {
-    "name": "Nguyễn Đức Tài",
+    "name": "Bùi Quốc Duy",
     "version": "1.2.18",
-    "description": "File bot được tạo bởi Nguyễn Đức Tài",
-    "data-mitai": "Đang tiến hành kết nối với data...",
-    "data-mitai-project": "Kết nối thành công đến cơ sở dữ liệu của mitai project",
+    "description": "File bot được tạo bởi Bùi Quốc Duy",
+    "data-mirai": "Đang tiến hành kết nối với data",
+    "data-mirai-project": "Kết nối thành công đến cơ sở dữ liệu của Wzen Project",
     "api-key": "dtai14-10-2006",
-    "main": "mitai.js",
+    "main": "wzen.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -13,9 +13,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://raw.githubusercontent.com/nguyenductai206/nguyenductai206/main/package.json"
+        "url": "git+https://raw.githubusercontent.com/duydev209/wzen/main/package.json"
     },
-    "author": "Nguyen Duc Tai",
+    "author": "Bui Quoc Duy",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
